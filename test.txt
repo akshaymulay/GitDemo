@@ -4,6 +4,7 @@ some other changes
 in separate branch
 once done and tested we will move it to main branch
 
+<<<<<<< HEAD
 
 changes by y person
 top changes are done by x person
